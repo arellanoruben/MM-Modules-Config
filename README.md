@@ -1,7 +1,13 @@
 # MM-Modules-Config
 ```
-Ya le Supe al ShitPost
+Ya le supe 
 ````
-## UwU
-* Practicando
-* Ando
+## Pasos a Realizar
+* Lo primero es posicionanros en la carpeta de Magic-Mirror
+```
+cd MagicMirror/modules
+````
+* Ya dentro de esta ruta lo siguiete sera hacer el gitclone detro de este directorio
+```
+git cloen https://github.com/arellanoruben/MM-Modules-Config.git
+````
