@@ -11,3 +11,4 @@ cd MagicMirror/modules
 ```
 git cloen https://github.com/arellanoruben/MM-Modules-Config.git
 ````
+*Ahora de buscaremos la carperta llamada cofig
